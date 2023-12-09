@@ -1,7 +1,7 @@
 # 💫 About Me:
 😄 Pronouns: He/His<br>🔭 I’m currently building Frontier.<br>🌱 I’m currently learning more about Flutter.<br>🤔 I’m looking for help with VelocityX documentation.<br>💬 Ask me about Flutter or any tech-related stuff.<br>📫 How to reach me: Check social links below.
 
-(https://github-readme-stats.vercel.app/api?username=Abid-Malik1&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Abid-Malik1&show_icons=true)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abid-malik-8a7976148) 
