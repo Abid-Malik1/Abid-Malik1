@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He/His<br>🔭 I’m currently building Frontier.<br>🌱 I’m currently learning more about Flutter.<br>🤔 I’m looking for help with VelocityX documentation.<br>💬 Ask me about Flutter or any tech-related stuff.<br>📫 How to reach me: Check social links below.
+😄Hello! I am Abid Malik, Bachelor of Computer Science. I am a Flutter developer with having 3 years of Experience in Flutter Development. I can build hybrid apps with Flutter. Development is my passion. I love to take on new endeavors and deliver the best results. I accept every project as a challenge to improve myself and grow my skills.
 
 
 
